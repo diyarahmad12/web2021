@@ -1,0 +1,29 @@
+*{
+width: auto;
+margin: 0;
+padding: 0;
+}
+.diyar {
+  background-image: url(https://image.yesmovies.sh/cruella-cover.png) width 250px;
+  background-color: black;
+
+}
+.redcolor {
+color: red;
+}
+p {
+  font-size: 1.2rem;
+  font-family: verdana;
+background-color: black;
+color: red;
+
+}
+h1 {
+  font-size: 1.7rem;
+  font-family: verdana;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 30px;
+
+}
